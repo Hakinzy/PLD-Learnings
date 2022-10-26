@@ -1,2 +1,5 @@
 # PLD-Learnings
-Practising C extensively
+## Practising C extensively
+### *VARIABLESE
+### *LOOPS,NESTED
+### *FUNCTIONS etc....
