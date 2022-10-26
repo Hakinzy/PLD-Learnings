@@ -1,5 +1,5 @@
 # PLD-Learnings
 ## Practising C extensively
-### *VARIABLESE
-### *LOOPS,NESTED
-### *FUNCTIONS etc....
+#### * VARIABLE
+#### * LOOPS(NESTED FOR,WHILE,DO-WHILE)
+#### * FUNCTIONS etc....
