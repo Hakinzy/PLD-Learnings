@@ -1,4 +1,7 @@
 #include <stdio.h>
+/**
+A pointer that prints address of a variable
+*/
 
 int main(void)
 {
